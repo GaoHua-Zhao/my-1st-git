@@ -1,0 +1,7 @@
+.env
+node_modules/
+.next/
+out/
+dist/
+build/
+//日志、缓存、编辑器和系统文件
